@@ -1,0 +1,31 @@
+# --- Núcleo científico ---
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+
+# --- Jupyter y utilidades ---
+jupyterlab
+ipykernel
+notebook
+
+# --- PostgreSQL / SQL ---
+SQLAlchemy
+psycopg2-binary
+
+# --- Visualización avanzada (opcional) ---
+plotly
+yellowbrick
+
+# --- ML avanzado / deep learning (opcional, CPU) ---
+tensorflow        # o bien pytorch si prefieres PyTorch
+torch
+torchvision
+torchaudio
+
+# --- Herramientas extra ---
+xgboost
+lightgbm
+statsmodels
